@@ -1,5 +1,4 @@
-Simple pixel images editor using Fyneframework: https://fyne.io
-Program run:
+Simple pixel images editor using Fyne framework: https://fyne.io. Program run:
 
 ```
 go run -v ./pixl
